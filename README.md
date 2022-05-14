@@ -1,2 +1,3 @@
-# NikkiTv
-Movie Recommendation System Using Flask.
+# Movie-recommendation-system
+
+Deployed Web Application - [CLICK HERE](https://therecommender1.herokuapp.com/)
